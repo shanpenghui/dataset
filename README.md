@@ -1,16 +1,16 @@
 # dataset
 Collection and research of dataset for SLAM
 
-+ [x] **[1]** Tanke J, Kwon O H, Stotko P, et al. [**Bonn Activity Maps: Dataset Description**](https://arxiv.org/pdf/1912.06354.pdf)[J]. arXiv preprint arXiv:1912.06354, **2019**.
++ [x] **[1]** Tanke J, Kwon O H, Stotko P, et al. [**Bonn Activity Maps: Dataset Description**](https://arxiv.org/abs/1912.06354)[J]. .[PDF](https://arxiv.org/pdf/1912.06354.pdf). arXiv preprint arXiv:1912.06354, **2019**.
     + <font color = blue>**包含人体跟踪、姿态和环境语义三维重建的数据集**</font>
     + 波恩大学，[项目、数据集主页](https://github.com/bonn-activity-maps/bonn_activity_maps)
 + [x] **[2]** Wang S, Yue J, Dong Y, et al. [**A synthetic dataset for Visual SLAM evaluation**](https://www.sciencedirect.com/science/article/pii/S0921889019301009#appSB)[J]. Robotics and Autonomous Systems, **2019**: 103336.
     + <font color = blue>用于视觉 SLAM 评估的合成数据集</font>
     + 同济大学，期刊中科院三区， JCR Q2， IF 2.809
-+ [x] **[3]** Kirsanov P, Gaskarov A, Konokhov F, et al. [**DISCOMAN: Dataset of Indoor SCenes for Odometry, Mapping And Navigation**](https://arxiv.org/pdf/1909.12146.pdf)[J]. arXiv preprint arXiv:1909.12146, **2019**.
++ [x] **[3]** Kirsanov P, Gaskarov A, Konokhov F, et al. [**DISCOMAN: Dataset of Indoor SCenes for Odometry, Mapping And Navigation**](https://arxiv.org/abs/1909.12146)[J]. .[PDF](https://arxiv.org/pdf/1909.12146.pdf). arXiv preprint arXiv:1909.12146, **2019**.
     + <font color = blue>DISCOMAN：用于里程计、制图和导航的室内场景数据集</font>
     + 三星 AI 中心，数据集随论文正式发表放出
-+ [x] **[4]** Zheng J, Zhang J, Li J, et al. [**Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling**](https://arxiv.org/pdf/1908.00222.pdf)[J]. arXiv preprint arXiv:1908.00222, **2019**.
++ [x] **[4]** Zheng J, Zhang J, Li J, et al. [**Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling**](https://arxiv.org/abs/1908.00222)[J]. .[PDF](https://arxiv.org/pdf/1908.00222.pdf). arXiv preprint arXiv:1908.00222, **2019**.
     + <font color = blue>用于结构化三维建模的大型照片拟真数据集</font>
     + 上海科技大学 &emsp;[代码、数据集开源](https://github.com/bertjiazheng/Structured3D)  &emsp; [项目主页](https://structured3d-dataset.org/)
 + [x] **[5]** Saran V, Lin J, Zakhor A. [**Augmented Annotations: Indoor Dataset Generation with Augmented Reality**](http://www-video.eecs.berkeley.edu/papers/jameslin/augmented_annotation.pdf)[J]. ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, **2019**, 4213: 873-879.
