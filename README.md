@@ -44,7 +44,8 @@ Collection and research of dataset for SLAM
 + [x] **[13]** Quang-Hieu Pham, Pierre Sevestre, et al. [**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**](https://arxiv.org/abs/1909.07541)[J]. .[PDF](https://arxiv.org/pdf/1909.07541.pdf). arXiv preprint arXiv:1909.07541, **2019**.
     + <font color = blue>**A * 3D数据集：在充满挑战的环境中实现自动驾驶**</font>
 + [x] **[14]** Wang, Wenshan and Zhu, Delong and Wang, Xiangwei and Hu, et al. [**TartanAir: A Dataset to Push the Limits of Visual SLAM**](https://arxiv.org/abs/2003.14338)[J]. .[PDF](https://arxiv.org/pdf/2003.14338.pdf). arXiv preprint arXiv:2003.14338, **2020**.
-    + <font color = blue>.[数据集地址].(http://theairlab.org/tartanair-dataset/)
+    + <font color = blue>**TartanAir：突破Visual SLAM极限的数据集**</font>
+    [数据集地址](http://theairlab.org/tartanair-dataset/)
 
 
 + **RobotCar 数据集**：https://robotcar-dataset.robots.ox.ac.uk/
