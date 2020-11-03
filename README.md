@@ -41,7 +41,7 @@ Collection and research of dataset for SLAM
     + 朱德龙师兄参与的一项工作，上个月推荐过了，这个月刚完善网站再推荐一遍，并在 CVPR 2020 组织了 [workshop](https://sites.google.com/view/vislocslamcvpr2020/slam-challenge)
 + [x] **[12]** Jinjin Gu, Haoming Cai, Haoyu Chen, Xiaoxing Ye, et al. [**PIPAL: a Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration**](https://arxiv.org/pdf/2007.12142.pdf)[J]. arXiv preprint arXiv:2007.12142, **2020**.
     + <font color = blue>**PIPAL：用于感知图像恢复的大规模图像质量评估数据集**</font>
-+ [x] **[13]** Quang-Hieu Pham, Pierre Sevestre, et al. [**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**](https://arxiv.org/pdf/1909.07541.pdf)[J]. arXiv preprint arXiv:1909.07541, **2019**.
++ [x] **[13]** Quang-Hieu Pham, Pierre Sevestre, et al. [**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**](https://arxiv.org/abs/1909.07541)[J]. [PDF](https://arxiv.org/pdf/1909.07541.pdf)arXiv preprint arXiv:1909.07541, **2019**.
     + <font color = blue>**A * 3D数据集：在充满挑战的环境中实现自动驾驶**</font>
 
 
