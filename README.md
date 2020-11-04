@@ -46,6 +46,9 @@ Collection and research of dataset for SLAM
 + [x] **[14]** Wang, Wenshan and Zhu, Delong and Wang, Xiangwei and Hu, et al. [**TartanAir: A Dataset to Push the Limits of Visual SLAM**](https://arxiv.org/abs/2003.14338)[J]. .[PDF](https://arxiv.org/pdf/2003.14338.pdf). arXiv preprint arXiv:2003.14338, **2020**.
     + <font color = blue>**TartanAir：突破Visual SLAM极限的数据集**</font>
     [数据集地址](http://theairlab.org/tartanair-dataset/)
++ [x] **[15]** Adam Ligocki, Ales Jelinek, Ludek Zalud. [**Brno Urban Dataset -- The New Data for Self-Driving Agents and Mapping Tasks**](https://arxiv.org/abs/1909.06897)[J]. .[PDF](https://arxiv.org/pdf/1909.06897.pdf). arXiv preprint arXiv:1909.06897, **2019**.
+    + <font color = blue>**布尔诺城市数据集-自驾车代理和制图任务的新数据**</font>
+    [数据集地址](https://github.com/Robotics-BUT/Brno-Urban-Dataset)
 
 
 + **RobotCar 数据集**：https://robotcar-dataset.robots.ox.ac.uk/
