@@ -49,7 +49,9 @@ Collection and research of dataset for SLAM
 + [x] **[15]** Adam Ligocki, Ales Jelinek, Ludek Zalud. [**Brno Urban Dataset -- The New Data for Self-Driving Agents and Mapping Tasks**](https://arxiv.org/abs/1909.06897)[J]. .[PDF](https://arxiv.org/pdf/1909.06897.pdf). arXiv preprint arXiv:1909.06897, **2019**.
     + <font color = blue>**布尔诺城市数据集-自驾车代理和制图任务的新数据**</font>
     [数据集地址](https://github.com/Robotics-BUT/Brno-Urban-Dataset)
-
++ [x] **[16]** Zhu, Zunjie and Xu, Feng and Yan. [**Real-time Indoor Scene Reconstruction with RGBD and Inertial Input**](https://arxiv.org/abs/1909.06897)[J]. .[PDF](http://39.98.209.108/publications/2019/2019FastFusion.pdf). ICME’2019, **2019**.
+    + <font color = blue>**FMDataset旨在验证Dense-SLAM系统在传感器运动的不同速度下的鲁棒性**</font>
+    [数据集地址](https://github.com/zhuzunjie17/FastFusion)
 
 + **RobotCar 数据集**：https://robotcar-dataset.robots.ox.ac.uk/
 + **开放数据集**：http://aisdatasets.informatik.uni-freiburg.de/
